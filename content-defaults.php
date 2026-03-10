@@ -1,26 +1,26 @@
 <?php
 return [
   'hero' => [
-    'tagline' => 'Modern · Familiär · Einzigartig',
+    'tagline' => 'Frischer Wind · Vertraute Atmosphäre · Leck',
     'title' => "Lyv's Haarstudio",
-    'text' => 'Dein Wohlfühl-Friseursalon mit warmer Atmosphäre, persönlicher Beratung und modernen Techniken von Balayage bis präzise Haarschnitte. Wir nehmen uns Zeit für Styles, die zu deinem Alltag passen und dich strahlen lassen.',
+    'text' => 'Willkommen in deinem neuen Lieblingssalon in Leck. Friseurmeisterin Lyv Jensen verbindet die langjährige Tradition des Salons mit modernen Techniken – von Balayage und Strähnen bis zum perfekten Haarschnitt.',
   ],
   'about' => [
     'title' => 'Unsere Geschichte',
     'paragraphs' => [
-      'Lyv hat ihr Haarstudio gegründet, weil sie einen Ort schaffen wollte, an dem moderne Stylings auf eine herzliche, entspannte Atmosphäre treffen. Ein Salon, der wie ein Wohnzimmer wirkt – nur mit den besten Tools für deinen Look.',
-      'Zwischen warmen Naturtönen, zarten Blumendetails und viel Raum zum Durchatmen kümmern wir uns um dein Haar und dein Wohlgefühl. Vertrauen, Zeit und echte Gespräche gehören bei uns zum Service.',
-      'Ob Balayage, Farbauffrischung oder klassischer Schnitt: Wir hören zu, beraten transparent und setzen Looks um, die dich jeden Tag begleiten.',
+      'Was einst als „Salon Jutta" bekannt war, schlägt heute ein neues, frisches Kapitel auf: Lyv Jensen, Friseurmeisterin und eine der jüngsten Unternehmerinnen in Leck, hat das Haarstudio mit viel Herz und Leidenschaft übernommen.',
+      'Lyv verbindet die Tradition und das Vertrauen, das der Salon über Jahrzehnte aufgebaut hat, mit einem modernen, persönlichen Ansatz. Ihr Team begleitet euch mit ehrlicher Beratung, professionellen Techniken und einem echten Gespür für individuelle Looks.',
+      'Ob Balayage, Strähnen, Farbauffrischung oder klassischer Schnitt – bei uns steht dein Wohlgefühl im Mittelpunkt. Frischer Wind in vertrauter Atmosphäre.',
     ],
   ],
   'team' => [
     'title' => 'Das Team',
-    'intro' => 'Kreativ, aufmerksam und immer mit einem Lächeln: Unser Team kombiniert Meisterhandwerk mit sanften Beauty-Ritualen – für kleine und große Haarträume.',
+    'intro' => 'Kreativ, aufmerksam und immer mit einem Lächeln: Unser Team kombiniert Meisterhandwerk mit persönlicher Beratung – für Looks, die wirklich zu dir passen.',
     'members' => [
       [
         'name' => 'Lyv',
         'role' => 'Inhaberin · Friseurmeisterin',
-        'bio' => 'Verliebt in Balayage, Kopfhautwohlfühlrituale und Looks mit natürlicher Leichtigkeit.',
+        'bio' => 'Spezialisiert auf Balayage, Strähnen und Looks mit natürlicher Leichtigkeit. Mit Leidenschaft für Farbe und Schnitt.',
       ],
       [
         'name' => 'Nova',
@@ -35,24 +35,73 @@ return [
       [
         'name' => 'Ella',
         'role' => 'Beauty Expertin',
-        'bio' => 'Lieben Brautstylings, Flechtelemente und florale Details für besondere Momente.',
+        'bio' => 'Liebt Brautstylings, Flechtelemente und florale Details für besondere Momente.',
       ],
     ],
   ],
   'services' => [
-    'title' => 'Leistungen',
-    'intro' => 'Transparente Preise, hochwertige Produkte und individuelle Beratung – alle Angaben in Euro.',
+    'title' => 'Leistungen & Preise',
+    'intro' => 'Transparente Preise, hochwertige Produkte und individuelle Beratung – für ein Ergebnis, das dich strahlen lässt.',
+  ],
+  'why_us' => [
+    'title' => "Warum Lyv's Haarstudio?",
+    'items' => [
+      [
+        'icon' => '✨',
+        'title' => 'Persönliche Beratung',
+        'text' => 'Jeder Besuch beginnt mit einem ehrlichen Gespräch. Wir nehmen uns Zeit für dich und deinen individuellen Look.',
+      ],
+      [
+        'icon' => '🎨',
+        'title' => 'Moderne Techniken',
+        'text' => 'Von Balayage bis präzisem Schnitt – wir bleiben stets aktuell und bilden uns regelmäßig weiter.',
+      ],
+      [
+        'icon' => '🏡',
+        'title' => 'Lokal verwurzelt',
+        'text' => 'Seit Jahrzehnten ein vertrautes Gesicht in Leck – jetzt mit frischem Wind und junger Energie.',
+      ],
+      [
+        'icon' => '💛',
+        'title' => 'Wohlfühlatmosphäre',
+        'text' => 'Entspannte Atmosphäre, ehrliche Gespräche und ein Team, das sich wirklich für dich Zeit nimmt.',
+      ],
+    ],
+  ],
+  'gallery' => [
+    'title' => 'Impressionen',
+    'intro' => 'Ein Blick in unseren Salon und auf die Looks, die wir für dich kreieren.',
   ],
   'appointment' => [
-    'title' => 'Termin buchen',
-    'text' => 'Wir reservieren gern deinen Lieblingsslot – ruf uns während der Öffnungszeiten bis 18 Uhr an.',
-    'note' => 'Du erreichst uns telefonisch oder schreibst uns auf Instagram.',
+    'title' => 'Termin vereinbaren',
+    'text' => 'Ruf uns einfach an oder schreib uns auf Instagram – wir finden gern den passenden Termin für dich.',
+    'note' => 'Du erreichst uns telefonisch während unserer Öffnungszeiten oder per Instagram-Nachricht.',
   ],
   'contact' => [
-    'title' => 'Kontakt & Öffnungszeiten',
+    'title' => 'Kontakt & Anfahrt',
     'studio_name' => "Lyv's Haarstudio",
     'address_line' => 'Schafmarkt 2',
-    'map_label' => 'Google Maps folgt',
+    'address_city' => '25917 Leck',
+    'phone' => '04662 891898',
+    'email' => 'lyvs-haarstudio@gmx.de',
+    'map_label' => 'Karte laden',
+  ],
+  'hours' => [
+    'title' => 'Öffnungszeiten',
+    'days' => [
+      ['day' => 'Montag',     'hours' => '09:00 – 18:00 Uhr'],
+      ['day' => 'Dienstag',   'hours' => '09:00 – 18:00 Uhr'],
+      ['day' => 'Mittwoch',   'hours' => '09:00 – 18:00 Uhr'],
+      ['day' => 'Donnerstag', 'hours' => '09:00 – 18:00 Uhr'],
+      ['day' => 'Freitag',    'hours' => '09:00 – 18:00 Uhr'],
+      ['day' => 'Samstag',    'hours' => 'Geschlossen'],
+      ['day' => 'Sonntag',    'hours' => 'Geschlossen'],
+    ],
+  ],
+  'social' => [
+    'instagram' => 'https://www.instagram.com/lyvs_haarstudio?igsh=N28yOHVqZ2dlM3I=',
+    'instagram_handle' => '@lyvs_haarstudio',
+    'facebook' => '',
   ],
   'footer' => [
     'credit' => 'Webseite erstellt von Jason Holweg',
