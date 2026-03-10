@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "title": "Damen",
+      "items": [
+        {"label": "Trockenhaarschnitt", "price": "ab 32 €"},
+        {"label": "Waschen / Schneiden", "price": "38 €"},
+        {"label": "Waschen / Föhnen", "price": "ab 25 €"},
+        {"label": "Hochstecken", "price": "ab 50 €"}
+      ]
+    },
+    {
+      "title": "Herren",
+      "items": [
+        {"label": "Trocken", "price": "24 €"},
+        {"label": "Waschen / Schneiden / Föhnen", "price": "27 €"},
+        {"label": "Maschinenschnitt", "price": "20 €"},
+        {"label": "Bartschnitt", "price": "ab 5 €"}
+      ]
+    },
+    {
+      "title": "Kinder",
+      "items": [
+        {"label": "0-3 Jahre", "price": "14 €"},
+        {"label": "4-8 Jahre", "price": "16 €"},
+        {"label": "9-13 Jahre", "price": "18 €"},
+        {"label": "14-16 Jahre", "price": "20 €"}
+      ]
+    },
+    {
+      "title": "Farbe & Glanz",
+      "items": [
+        {"label": "Coloration", "price": "ab 40 €"},
+        {"label": "Balayage / Freihand", "price": "nach Aufwand"},
+        {"label": "Glossing / Tönung", "price": "auf Anfrage"},
+        {"label": "Pflege-Booster", "price": "+12 €"}
+      ]
+    },
+    {
+      "title": "Dauerwelle",
+      "items": [
+        {"label": "Soft Waves", "price": "ab 50 €"},
+        {"label": "Teil-Dauerwelle", "price": "auf Anfrage"},
+        {"label": "Pflegepaket", "price": "+15 €"},
+        {"label": "Styling-Tipps", "price": "inkl."}
+      ]
+    },
+    {
+      "title": "Extras",
+      "items": [
+        {"label": "Kopfhaut Spa", "price": "18 €"},
+        {"label": "Brautstyling", "price": "ab 120 €"},
+        {"label": "Make-up Touch-up", "price": "35 €"},
+        {"label": "Blumen-Accessoires", "price": "auf Anfrage"}
+      ]
+    }
+  ]
+}

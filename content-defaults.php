@@ -1,0 +1,60 @@
+<?php
+return [
+  'hero' => [
+    'tagline' => 'Modern · Familiär · Einzigartig',
+    'title' => "Lyv's Haarstudio",
+    'text' => 'Dein Wohlfühl-Friseursalon mit warmer Atmosphäre, persönlicher Beratung und modernen Techniken von Balayage bis präzise Haarschnitte. Wir nehmen uns Zeit für Styles, die zu deinem Alltag passen und dich strahlen lassen.',
+  ],
+  'about' => [
+    'title' => 'Unsere Geschichte',
+    'paragraphs' => [
+      'Lyv hat ihr Haarstudio gegründet, weil sie einen Ort schaffen wollte, an dem moderne Stylings auf eine herzliche, entspannte Atmosphäre treffen. Ein Salon, der wie ein Wohnzimmer wirkt – nur mit den besten Tools für deinen Look.',
+      'Zwischen warmen Naturtönen, zarten Blumendetails und viel Raum zum Durchatmen kümmern wir uns um dein Haar und dein Wohlgefühl. Vertrauen, Zeit und echte Gespräche gehören bei uns zum Service.',
+      'Ob Balayage, Farbauffrischung oder klassischer Schnitt: Wir hören zu, beraten transparent und setzen Looks um, die dich jeden Tag begleiten.',
+    ],
+  ],
+  'team' => [
+    'title' => 'Das Team',
+    'intro' => 'Kreativ, aufmerksam und immer mit einem Lächeln: Unser Team kombiniert Meisterhandwerk mit sanften Beauty-Ritualen – für kleine und große Haarträume.',
+    'members' => [
+      [
+        'name' => 'Lyv',
+        'role' => 'Inhaberin · Friseurmeisterin',
+        'bio' => 'Verliebt in Balayage, Kopfhautwohlfühlrituale und Looks mit natürlicher Leichtigkeit.',
+      ],
+      [
+        'name' => 'Nova',
+        'role' => 'Coloristin',
+        'bio' => 'Schafft weiche Übergänge, sonnige Nuancen und glänzende Facetten für jedes Haar.',
+      ],
+      [
+        'name' => 'Mika',
+        'role' => 'Stylist',
+        'bio' => 'Bringt frische Herren-Styles und unkomplizierte Alltagslooks mit viel Feingefühl zusammen.',
+      ],
+      [
+        'name' => 'Ella',
+        'role' => 'Beauty Expertin',
+        'bio' => 'Lieben Brautstylings, Flechtelemente und florale Details für besondere Momente.',
+      ],
+    ],
+  ],
+  'services' => [
+    'title' => 'Leistungen',
+    'intro' => 'Transparente Preise, hochwertige Produkte und individuelle Beratung – alle Angaben in Euro.',
+  ],
+  'appointment' => [
+    'title' => 'Termin buchen',
+    'text' => 'Wir reservieren gern deinen Lieblingsslot – ruf uns während der Öffnungszeiten bis 18 Uhr an.',
+    'note' => 'Du erreichst uns telefonisch oder schreibst uns auf Instagram.',
+  ],
+  'contact' => [
+    'title' => 'Kontakt & Öffnungszeiten',
+    'studio_name' => "Lyv's Haarstudio",
+    'address_line' => 'Schafmarkt 2',
+    'map_label' => 'Google Maps folgt',
+  ],
+  'footer' => [
+    'credit' => 'Webseite erstellt von Jason Holweg',
+  ],
+];
